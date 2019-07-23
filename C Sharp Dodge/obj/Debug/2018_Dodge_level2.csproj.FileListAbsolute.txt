@@ -1,0 +1,10 @@
+H:\C Sharp Dodge\C Sharp Dodge\bin\Debug\C Sharp Dodge.exe.config
+H:\C Sharp Dodge\C Sharp Dodge\bin\Debug\C Sharp Dodge.exe
+H:\C Sharp Dodge\C Sharp Dodge\bin\Debug\C Sharp Dodge.pdb
+H:\C Sharp Dodge\C Sharp Dodge\obj\Debug\2018_Dodge_level2.csprojAssemblyReference.cache
+H:\C Sharp Dodge\C Sharp Dodge\obj\Debug\C_Sharp_Dodge.frmDodge.resources
+H:\C Sharp Dodge\C Sharp Dodge\obj\Debug\C_Sharp_Dodge.Properties.Resources.resources
+H:\C Sharp Dodge\C Sharp Dodge\obj\Debug\2018_Dodge_level2.csproj.GenerateResource.cache
+H:\C Sharp Dodge\C Sharp Dodge\obj\Debug\2018_Dodge_level2.csproj.CoreCompileInputs.cache
+H:\C Sharp Dodge\C Sharp Dodge\obj\Debug\C Sharp Dodge.exe
+H:\C Sharp Dodge\C Sharp Dodge\obj\Debug\C Sharp Dodge.pdb
