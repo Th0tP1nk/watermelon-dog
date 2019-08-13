@@ -116,6 +116,25 @@ namespace _2018_Level2_Dodge
 
         }
 
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void axWindowsMediaPlayer1_Enter(object sender, EventArgs e)
+        {
+            System.Media.SoundPlayer sp = new System.Media.SoundPlayer(@"D:\medias\Startup.wav");
+
+            //sp.PlayLooping();
+
+            sp.Play();
+        }
+
         private void checkLives()
         {
             if (lives == 0)
@@ -123,6 +142,7 @@ namespace _2018_Level2_Dodge
                 tmrPlanet.Enabled = false;
                 tmrShip.Enabled = false;
                 MessageBox.Show("Game Over");
+                Application.Exit();
 
             }
         }
